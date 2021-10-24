@@ -5,7 +5,7 @@ title:  "simulating collider bias"
 Conditioning our analyses on a collider can bias results. Very interesting (but also worrisome!).
 
 ```
- n = 1000
+n = 1000
 df <- tibble(x = rnorm(n),
              y = rnorm(n),
              c = 0.5*x - 0.7*y + rnorm(n, sd=0.3),
