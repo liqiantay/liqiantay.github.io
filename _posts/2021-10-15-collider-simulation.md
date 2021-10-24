@@ -19,3 +19,4 @@ ggplot(df, aes(x=x, y=y, color=Hospitalization, fill=Hospitalization)) + geom_po
   scale_fill_manual(values = c("grey", "red"))
 
 ```
+![image](/assets/images/colliderplot11.png)
