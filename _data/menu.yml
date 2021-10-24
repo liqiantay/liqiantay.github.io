@@ -1,9 +1,14 @@
 entries:
   - title: about me
     entries:
-      - title: "<a href='mailto:liqian.tay@research.uwa.edu.au'>email</a>, <a href='https://twitter.com/LiQianTay'>twitter</a>"
       - title: currently a phd student at the university of western australia
       - title: "misinformation, causal inference, NLP/NLG, ABM, chess, schitt's creek, <a href='https://www.instagram.com/greyandmama/'>grey</a>"
+      - title: contact
+      entries: 
+       - title: email 
+           url: mailto:liqian.tay@research.uwa.edu.au
+       - title: twitter
+           url: https://twitter.com/LiQianTay
 
   - title: all posts
     post_list: true
