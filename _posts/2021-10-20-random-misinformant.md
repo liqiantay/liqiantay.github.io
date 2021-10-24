@@ -1,10 +1,10 @@
 ---
+layout: post
 customjs: misinfoactivity
 ---
 <html>
 <body>
-  <h1 style="color:red;text-align:left"> You Are Fake News</h1>
-  <p>
+<p>
 One proactive approach to combat the spread of misinformation is to roleplay a fake-news creator, so that we can learn and dissect common misleading techniques...
 </p>
   <hr size="10" width="100%">  
