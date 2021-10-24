@@ -5,8 +5,5 @@ entries:
       - title: "misinformation, causal inference, NLP/NLG, ABM, chess, schitt's creek, <a href='https://www.instagram.com/greyandmama/'>grey</a>"
 
   - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+    post_list: true
+      
