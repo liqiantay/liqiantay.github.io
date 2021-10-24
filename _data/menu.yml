@@ -1,10 +1,8 @@
 entries:
-  - title: info
+  - title: about
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: currently a phd student at the university of western australia
+      - title: "interests: misinformation, causal inference, NLP/NLG, ABM, chess, schitt's creek, and <a href='https://www.instagram.com/greyandmama/'>grey/a>"
 
   - title: all posts
     post_list:
