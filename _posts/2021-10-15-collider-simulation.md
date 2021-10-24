@@ -19,6 +19,5 @@ plotcollider <- ggplot(df, aes(x=x, y=y, color=Hospitalization, fill=Hospitaliza
   scale_fill_manual(values = c("grey", "red"))
   
 plotcollider
-
 ```
 ![image](/assets/images/colliderplot11.png)
