@@ -30,7 +30,7 @@ twitter_username: liqiantay
 github_username:  liqiantay
 
 # Build settings
-theme_remote: riggraz/no-style-please
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
 
