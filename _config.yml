@@ -24,6 +24,7 @@ sass:
   sass_dir: ./_sass
 
 highlighter: rouge
+markdown: kramdown
 
 
   
