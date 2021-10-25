@@ -23,10 +23,6 @@ sass:
   style: :compressed
   sass_dir: ./_sass
 
-highlighter: rouge
-markdown: kramdown
-
-
   
 # Exclude from processing.
 # The following items will not be processed, by default.
