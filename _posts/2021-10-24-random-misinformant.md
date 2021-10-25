@@ -1,6 +1,6 @@
 ---
 layout: post
-customjs: misinfoactivity
+title: random misinformant
 ---
 Something I made for an outreach activity with kids (although we didn't end up using it).
 
