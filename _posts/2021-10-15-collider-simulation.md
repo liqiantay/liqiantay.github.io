@@ -2,7 +2,7 @@
 layout: post
 title:  "simulating collider bias"
 ---
-Simulated some data for a WIP.
+Simulated some data for a WIP. As can be seen from the plot, partisan beliefs and outcomes are not associated if all datapoints are taken into account. However, conditional on the hospitalization collider, a positive, spurious relationship can be observed.  
 
 ![image](/assets/images/colliderplot11.png)
 
