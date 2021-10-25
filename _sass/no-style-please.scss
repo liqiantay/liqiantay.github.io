@@ -67,23 +67,18 @@ table, th, td {
   padding: 0.4rem;
 }
 
-code {
-  color: black;
-  background-color: #eef;
-  white-space: normal;
-}
 
 div.highlighter-rouge code {
   display: block;
   overflow-x: auto;
-  white-space: nowrap;
+  white-space: pre;
   padding: 1rem;
 }
 
 div.highlighter-rouge pre code {
   display: block;
   overflow-x: auto;
-  white-space: nowrap;
+  white-space: pre;
   padding: 1rem;
 }
 
