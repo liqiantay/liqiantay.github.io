@@ -1,12 +1,15 @@
 // <![CDATA[
    var colour="#000000";
-   var sparkles=120;
+   var sparkles=20;
    
    /****************************
    *  Tinkerbell Magic Sparkle *
    * (c) 2005 mf2fm web-design *
    *  http://www.mf2fm.com/rv  *
    * DON'T EDIT BELOW THIS BOX *
+   --also inspired by 
+   https://github.com/antiroyalty/
+   antiroyalty.github.io
    ****************************/
    var x=ox=400;
    var y=oy=300;
