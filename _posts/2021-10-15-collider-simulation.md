@@ -20,6 +20,6 @@ plotcollider <- ggplot(df, aes(x = x, y = y,
    theme_bw()+
    scale_color_grey(start = 0, end = .65)+ 
    scale_fill_manual(values = c("grey", "red"))
- plotcollider 
+plotcollider 
 ```
 ![image](/assets/images/colliderplot11.png)
