@@ -4,7 +4,7 @@ title: "naturalistic flanker with jspsych"
 ---
 WIP
 
-<iframe width= 700 height="800" src="https://liqiantay.github.io/random-jspsych/" style="width:100%; height:650px;" ></iframe> 
+<iframe src="https://liqiantay.github.io/random-jspsych/" style="width:100%; height:650px;" ></iframe> 
 
 Dummel and Hübner (2017) implemented a Flanker task with the naturalistic stumuli of food. I made one with a politician as practice.
 
