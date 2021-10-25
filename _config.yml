@@ -22,7 +22,8 @@ theme_config:
 sass:
   style: :compressed
   sass_dir: ./_sass
-  
+
+highlighter: rouge
 
 
   
