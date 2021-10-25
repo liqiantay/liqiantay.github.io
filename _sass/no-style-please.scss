@@ -70,24 +70,20 @@ table, th, td {
 code {
   color: black;
   background-color: #eef;
-  white-space: nowrap;
-}
-
-pre code {
-  white-space: nowrap;
+  white-space: normal;
 }
 
 div.highlighter-rouge code {
   display: block;
   overflow-x: auto;
-  white-space: pre;
+  white-space: nowrap;
   padding: 1rem;
 }
 
 div.highlighter-rouge pre code {
   display: block;
   overflow-x: auto;
-  white-space: pre;
+  white-space: nowrap;
   padding: 1rem;
 }
 
