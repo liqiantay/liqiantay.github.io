@@ -1,6 +1,6 @@
 // <![CDATA[
    var colour="#000000";
-   var sparkles=20;
+   var sparkles=12;
    
    /****************************
    *  Tinkerbell Magic Sparkle *
@@ -62,9 +62,9 @@
    colors = new Array(
       '#364652',
       '#071108',
-      '#bfb1c1',
-      '#b5bec6',
-      '#c7dbe6',
+      '##23252b',
+      '#4f5357',
+      '#2f444f',
    )
 
    window.onload=function() { if (document.getElementById) {
