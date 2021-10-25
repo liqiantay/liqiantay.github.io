@@ -8,7 +8,7 @@ Conditioning our analyses on a collider can bias results. Very interesting (but 
 n = 1000
 df <- tibble(x = rnorm(n),
   y = rnorm(n),
-  c = 0.5*x - 0.7*y + rnorm(n, sd=0.3),
+  c = - 0.7*y + 0.5*x + rnorm(n, sd=0.3),
   Hospitalization = ifelse(c > 1, "Yes", "No"))
 plotcollider <- ggplot(df, aes(x = x, y = y, 
   color=Hospitalization,
