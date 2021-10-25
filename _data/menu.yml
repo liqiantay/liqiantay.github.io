@@ -5,7 +5,7 @@ entries:
       - title: "misinformation, causal inference, NLP/NLG, ABM, chess, schitt's creek, <a href='https://www.instagram.com/greyandmama/'>grey</a>"
       - title: "<a href='mailto:liqian.tay@research.uwa.edu.au'>email</a>, <a href='https://twitter.com/LiQianTay'>twitter</a>, <a href='https://www.linkedin.com/in/liqiantay/'>linkedin</a>"
       - title: books
-          url: books
+          url: https://liqiantay.github.io/books
 
   - title: all posts
     post_list: true
