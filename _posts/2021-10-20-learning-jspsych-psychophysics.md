@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "jspsych and the psychophysics plugin"
+title: "naturalistic flanker task with jspsych"
 ---
 Placeholder
