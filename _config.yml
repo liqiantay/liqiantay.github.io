@@ -9,7 +9,7 @@ twitter_username: liqiantay
 github_username:  liqiantay
 
 # Build settings
-remote_theme: 
+remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
   
