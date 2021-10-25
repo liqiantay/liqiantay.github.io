@@ -69,7 +69,12 @@ table, th, td {
 
 code {
   background-color: #eef;
-   max-width: 1040px;
+  font-size: 85%;
+}
+
+pre code {
+  background-color: #eef;
+  font-size: 85%;
 }
 
 div.highlighter-rouge code {
