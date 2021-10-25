@@ -2,7 +2,7 @@
 layout: post
 title:  "simulating collider bias"
 ---
-Conditioning our analyses on a collider can bias results. Very interesting (but also worrisome!).
+Simulated some data for a WIP manuscript.
 
 ![image](/assets/images/colliderplot11.png)
 
