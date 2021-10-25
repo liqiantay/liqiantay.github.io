@@ -4,7 +4,7 @@ email: liqian.tay@research.uwa.edu.au
 description: 
   personal site.
 baseurl: ""  
-url: ""  
+url: "liqiantay.github.io"  
 twitter_username: liqiantay
 github_username:  liqiantay
 
@@ -23,13 +23,7 @@ sass:
   style: :compressed
   sass_dir: ./_sass
   
-markdown: kramdown
-highlighter: rouge
 
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
-  hard_wrap: false
 
   
 # Exclude from processing.
