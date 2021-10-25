@@ -2,7 +2,7 @@
 layout: post
 title:  "simulating collider bias"
 ---
-Simulated some data for a WIP manuscript.
+Simulated some data for a WIP.
 
 ![image](/assets/images/colliderplot11.png)
 
