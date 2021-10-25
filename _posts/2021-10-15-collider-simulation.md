@@ -3,7 +3,7 @@ layout: post
 title:  "simulating collider bias"
 ---
 Conditioning our analyses on a collider can bias results. Very interesting (but also worrisome!).
-```R 
+{% highlight R linenos %}
 n = 1000
 df <- tibble(x = rnorm(n),
    y = rnorm(n),
@@ -21,5 +21,5 @@ plotcollider <- ggplot(df, aes(x = x, y = y,
    scale_color_grey(start = 0, end = .65)+ 
    scale_fill_manual(values = c("grey", "red"))
 plotcollider 
-```
+{% endhighlight %}
 ![image](/assets/images/colliderplot11.png)
