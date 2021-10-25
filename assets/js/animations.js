@@ -1,6 +1,6 @@
 // <![CDATA[
    var colour="#000000";
-   var sparkles=12;
+   var sparkles=7;
    
    /****************************
    *  Tinkerbell Magic Sparkle *
