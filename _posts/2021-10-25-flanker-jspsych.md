@@ -2,7 +2,7 @@
 layout: post
 title: "flanker with jspsych"
 ---
-Dummel and Hübner (2017) implemented a Flanker task with the naturalistic stumuli of food. To familiarize myself with jspsych, I made one with a politician.
+Dummel and Hübner (2017) implemented a Flanker task with the naturalistic stumuli of food. To familiarize myself with jspsych, I made one with pictures of a politician.
 
 <iframe src="https://liqiantay.github.io/random-jspsych/" style="width:100%; height:650px;" ></iframe> 
 
