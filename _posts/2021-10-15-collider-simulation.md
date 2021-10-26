@@ -19,7 +19,6 @@ plotcollider <- ggplot(df, aes(x = x, y = y,
    geom_smooth(method = "lm", se = TRUE, 
    fullrange = FALSE, level = 0.95) +
    labs(x = "Partisan beliefs", y = "Outcomes") +
-   theme_minimal()+
    theme_bw()+
    scale_color_grey(start = 0, end = .65)+ 
    scale_fill_manual(values = c("grey", "red"))
